@@ -1,5 +1,5 @@
 # Genshin_personage_trailer
-Only for Fun script
+Only for Fun
 
 
 * `sudo apt update`
