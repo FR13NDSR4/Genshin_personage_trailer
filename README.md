@@ -8,4 +8,4 @@ Only for Fun
 * `git clone https://github.com/FR13NDSR4/Genshin_personage_trailer`
 * `cd Genshin_personage_trailer/`
 * `pip3 install -r requirements.txt`
-* `pyton3 start.py`
+* `python3 start.py`
